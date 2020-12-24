@@ -1,6 +1,6 @@
 :santa:
 # nexys4ddr-memctrl
-The goal of this repository is to generate a proper external memory controller for the [Nexys4DDR board](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
+The goal of this repository is to generate a proper external memory controller for the [Nexys4 DDR board](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
 - [Nexys 4 DDR Xilinx MIG Project](https://reference.digilentinc.com/reference/programmable-logic/nexys-4-ddr/start)
   - Files to configure the MIG wizard.
   - Stated to work with ISE 14.7.
