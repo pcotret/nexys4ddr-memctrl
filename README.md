@@ -116,3 +116,11 @@ INFO: [IP_Flow 19-3438] Customization errors found on 'mig_7series_0'. Restoring
 ERROR: [BD 41-245] set_property error - Customization errors found on 'mig_7series_0'. Restoring to previous valid configuration.
 ERROR: [Common 17-39] 'set_property' failed due to earlier errors.
 ```
+
+## ISE 14.7 generation
+
+Generation with ISE 14.7 is straightforward, as MIG files were generated for this version.
+
+![ise](./log_ise_147.png)
+
+The idea is now to get it working within a small design with, for instance a MicroBlaze. Afterwards, we'll may try to "reverse" it in order to make our own implementation.
